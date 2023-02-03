@@ -1,0 +1,29 @@
+* {
+    font-size: 16px;
+}
+
+header {
+    display: inline;
+}
+
+header img {
+    border-radius: 50%;
+}
+
+nav ul {
+    
+    display: inline;
+}
+
+nav ul li{
+    display: inline;
+}
+
+#about h1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+#about img {
+    margin: auto;
+}
